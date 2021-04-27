@@ -1,2 +1,1 @@
-# vanilla-js-shopping-list
-Shopping list using Vanilla Javascript
+A simple shopping list application using only vanilla javascript operating directly into the DOM.
